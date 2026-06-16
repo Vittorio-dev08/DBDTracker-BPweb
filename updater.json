@@ -1,10 +1,10 @@
 {
   "version": "1.0.2",
   "notes": "Added a remove button for individual matches in the Log Archive.",
-  "pub_date": "2026-06-16T21:32:00Z",
+  "pub_date": "2026-06-16T21:42:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWtGMDhFNmVyUkVTSlRSNC9lNHZ3eWg4WCtjMnNWY2ZBcTM2dmRnN0JaT2RwOVhZOXF5Zm8rSUpvZ0diYmJYMHJOQ1c5RlVrSlhmMmFGZitNZmtmcGRHSmRNSTJXN2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjQ1NTY3CWZpbGU6Qmxvb2Rwb2ludF8xLjAuMl94NjQtc2V0dXAuZXhlCllkQnl0blhKVjR0Q3h0am41UGQ4NStNY3VHM0lyQVBCRjdPVFR4TXZhY3h1dWhydDhuV0tEQTNob1hIVVNqNnY3RHB1dmJraU5NS3EzVG9GWHF3WkN3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWtGMDhFNmVyUkVwVEhOUHhubFh0ME5OYzdrMzFmZmVrZU50cTJtTjZhU0d0aUpnbUsxVzBjU3YxM1QzTFRYZUo3WWJWKzlDTUxFbGc1NldaNU1kTURyMEMzbTBRdGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjQ2MTYzCWZpbGU6Qmxvb2Rwb2ludF8xLjAuMl94NjQtc2V0dXAuZXhlCkx6V0NCNXpYcEFnVjlUaU1mcS9XMWJzTUlSVDgrRHBTYTB3aVN6dUNsSjM0OFBSM2hrRXNpQXFRd01jNzcydGpqN2JkTU9wN2RpNFVCa1ZoZHNJZ0J3PT0K",
       "url": "https://vittorio-dev08.github.io/DBDTracker-BPweb/Bloodpoint_1.0.2_x64-setup.exe"
     }
   }
