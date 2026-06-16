@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Added The Slasher (Jason) killer icon, prefix configurations, and search shortcuts.",
+  "pub_date": "2026-06-16T20:54:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWtGMDhFNmVyUklvNGNmeExobFlhcmZUSGhzUTY3azBSSEJsY0FDd29TYklkZkhqak1Vakl0MU1GY2FkMnA2dko4Nkg2UGFQZ1pZbVZ2Rit0SkxkRGpsK2wyMXBKMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjQzMjAwCWZpbGU6Qmxvb2Rwb2ludF8xLjAuMV94NjQtc2V0dXAuZXhlCnBzWFM1cXBwSlVSMkdRSjdYZUFYMko0blBHYnRKRXNqSitFR28vR01GVGVMcCs0WDRkNHdyV2JLdTJmY1VTeEhpVEcrL3RSSTNlT3ZhNGhwZisrMEJRPT0K",
+      "url": "https://vittorio-dev08.github.io/DBDTracker-BPweb/Bloodpoint_1.0.1_x64-setup.exe"
+    }
+  }
+}
